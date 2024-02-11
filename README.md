@@ -19,9 +19,11 @@ The Ultimate Tool for Quickly, Easily and Locally creating gifs from your Videos
 
 - Overwrite toggle for quickly remaking the gif as needed
 
-##Download Link
+---------------
+
+### Download Here:
 https://drive.google.com/file/d/13JjhZKnEfZL82n35t0T7rlXjTET1-RIj/view?usp=sharing
-* Download the exe, unzip anywhere you want and run it
+* Download the exe, unzip anywhere you want and run it (feel free to run through virus scanner first)
 * Requires ffmpeg to be installed
 * Get ffmpeg for manual install from the source here: https://www.ffmpeg.org/download.html
 * or use the quick installer here: https://github.com/icedterminal/ffmpeg-installer
