@@ -109,7 +109,7 @@ def main():
     window.move(qr.topLeft())
 
     main_layout = QVBoxLayout()
-    label = DropLabel('Drag and Drop Video Files Here', window)
+    label = DropLabel('Drag and Drop Video File Here', window)
     main_layout.addWidget(label)
 
     # Create a horizontal layout for FPS options and the override toggle
@@ -133,8 +133,8 @@ def main():
     # Inside the main function, after setting up the override GIF checkbox
 
     # Scale Options
-    scale_group_box = QGroupBox("Scale Options")
-    scale_group_box.setToolTip("Select the scale for the GIF. 'None' means no scaling.")
+    scale_group_box = QGroupBox("Resolution Options")
+    scale_group_box.setToolTip("Select the resolution width for the GIF. 'None' means no scaling.")
     scale_layout = QHBoxLayout()
     scale_group = QButtonGroup(window)  # Ensure the parent is set correctly
     scale_options = {"600": "600", "480": "480", "None": "None"}
