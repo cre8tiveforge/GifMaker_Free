@@ -1,6 +1,8 @@
 # GifMaker_Free
 The Ultimate Tool for Quickly, Easily and Locally creating gifs from your Videos
 
+![](/Gifmaker%20Preview%20-%20Gumroad.png)
+
 ### Features:
 
 - Very Small Application Size
