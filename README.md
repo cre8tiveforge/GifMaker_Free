@@ -27,7 +27,10 @@ https://drive.google.com/file/d/13JjhZKnEfZL82n35t0T7rlXjTET1-RIj/view?usp=shari
 * Requires ffmpeg to be installed
 * Get ffmpeg for manual install from the source here: https://www.ffmpeg.org/download.html
 * or use the quick installer here: https://github.com/icedterminal/ffmpeg-installer
- 
+
+If you'd like to support the creation of additional tools like this one, you can do so on Patreon or Gumroad
+https://www.patreon.com/Cre8tiveForge
+https://cre8tiveforge.gumroad.com/l/gifmaker
 
 #### Note:
 
