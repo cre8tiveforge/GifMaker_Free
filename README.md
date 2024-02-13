@@ -23,6 +23,7 @@ The Ultimate Tool for Quickly, Easily and Locally creating gifs from your Videos
 
 ### Download Here:
 https://drive.google.com/file/d/13JjhZKnEfZL82n35t0T7rlXjTET1-RIj/view?usp=sharing
+Backup: https://gofile.io/d/tT4ICT
 * Download the exe, unzip anywhere you want and run it (feel free to run through virus scanner first)
 * Requires ffmpeg to be installed
 * Get ffmpeg for manual install from the source here: https://www.ffmpeg.org/download.html
